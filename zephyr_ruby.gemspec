@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.summary     = 'Zephyr REST API Client for Ruby'
   spec.description = "Allows users to use Zephyr's REST API"
   spec.license     = 'MIT'
-  spec.required_ruby_version = '>= 3.0'
+  spec.required_ruby_version = '>= 3'
   spec.homepage = 'https://github.com/cdavis-personal/zephyr_ruby'
 
   spec.files = Dir.chdir(__dir__) do
